@@ -1,0 +1,5 @@
+link do dataset:
+
+• https://basedosdados.org/dataset/f06f3cdc-b539-409b-b311-1ff8878fb8d9?table=a3696dc2-4dd1-4f7e-9769-6aa16a1556b8
+
+• https://terrabrasilis.dpi.inpe.br/queimadas/portal/dados-abertos/#da-focos
