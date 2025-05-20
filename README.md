@@ -32,7 +32,7 @@ Explorar e visualizar dados públicos sobre **focos de queimadas no Brasil** no 
 ## Autora:
 
 Jessica Silva  
-[LinkedIn](https://www.linkedin.com/in/jessicasilvacodes/) • jessicasilvacodes
+[LinkedIn](https://www.linkedin.com/in/sdsjessica/) 
 
 ## Acesse o curso:
 
