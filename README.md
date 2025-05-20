@@ -37,6 +37,7 @@ Jessica Silva
 ## Acesse o curso:
 
 🔗 [ **Visualização de Dados em Python** ](https://tomorrow.ufba.br/pt-br/visualizacao-dados)
+
 Projeto Tomorrow – Instituto de Computação / Universidade Federal da Bahia (UFBA)  
 Professor: Danilo Barbosa Coimbra  
 
