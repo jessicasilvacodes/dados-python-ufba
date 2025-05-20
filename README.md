@@ -1,9 +1,44 @@
-# Capacitação em Visualização de Dados em Python - **Projeto Tomorrow**
+# Visualização de Dados em Python: **Focos de Queimadas no Brasil (INPE)**
 
-INSTITUTO DE COMPUTAÇÃO - UNIVERSIDADE FEDERAL DA BAHIA (UFBA)
+Este projeto foi desenvolvido como trabalho final do curso **Visualização de Dados em Python**, do **Projeto Tomorrow** da Universidade Federal da Bahia (UFBA), Instituto de Computação.
 
-Professor: Danilo Barbosa Coimbra
+## Objetivo:
 
-Link do curso: https://tomorrow.ufba.br/pt-br/visualizacao-dados
+Explorar e visualizar dados públicos sobre **focos de queimadas no Brasil** no ano de 2024, disponibilizados pelo **Instituto Nacional de Pesquisas Espaciais (INPE)**.
 
-Notebooks, exercícios e projeto final feitos por: [Jessica Santos da Silva](https://github.com/jessicasilvacodes)
+## Ferramentas Utilizadas:
+
+- **Python**
+- **Google Colab**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly** 
+- **Folium** 
+- **scikit-learn, scipy**
+
+## Fonte dos Dados:
+
+- **Base de Queimadas do INPE**  
+  [Portal TerraBrasilis - Dados Abertos](https://terrabrasilis.dpi.inpe.br/queimadas/portal/dados-abertos/)
+- **Base dos Dados** (via BigQuery)  
+  [basedosdados.org/dataset/queimadas-inpe](https://basedosdados.org/dataset/f06f3cdc-b539-409b-b311-1ff8878fb8d9)
+
+## Acesse o notebook:
+
+🔗 [Notebook no GitHub](https://github.com/jessicasilvacodes/dados-python-ufba/blob/main/projetofinal_ufba_JessicaSilva.ipynb)
+
+## Autora:
+
+Jessica Silva  
+[LinkedIn](https://www.linkedin.com/in/jessicasilvacodes/) • jessicasilvacodes
+
+## Acesse o curso:
+
+🔗 [ **Visualização de Dados em Python** ](https://tomorrow.ufba.br/pt-br/visualizacao-dados)
+Projeto Tomorrow – Instituto de Computação / Universidade Federal da Bahia (UFBA)  
+Professor: Danilo Barbosa Coimbra  
+
+---
+
