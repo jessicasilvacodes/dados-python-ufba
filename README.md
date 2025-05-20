@@ -28,6 +28,7 @@ Explorar e visualizar dados públicos sobre **focos de queimadas no Brasil** no 
 ## Acesse o notebook:
 
 🔗 [Notebook no GitHub](https://github.com/jessicasilvacodes/dados-python-ufba/blob/main/projetofinal_ufba_JessicaSilva.ipynb)
+🔗 [Notebook no Colab](https://colab.research.google.com/drive/1fwoz2XT5MAy_sN7_PMOoRR6TBms0vnzI?usp=sharing)
 
 ## Autora:
 
